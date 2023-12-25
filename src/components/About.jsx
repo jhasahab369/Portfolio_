@@ -49,8 +49,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm loving creating software sophistications, an aspiring Computer Scientist.
-        Passionate about CP and problem solving. I am skilled in Typescript and Javascript
+       I love creating software solutions to real world problems. <br/>An Aspiring Computer Scientist,
+        passionate about CP and problem solving. I am skilled in Typescript and Javascript
         with expertise in frameworks like React and Vue JS.
         I create softwares end to end, which are efficient , scalable , user-friendly and 
         specially which solve real world problems.

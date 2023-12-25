@@ -36,6 +36,7 @@ import icse from "./company/icse.png";
 import cbse from "./company/cbse.png";
 import freelance from "./company/freelance.png";
 import chegg from "./company/chegg.png";
+import stockprediction from "./stockprediction.png"
 
 
 export {
@@ -67,5 +68,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
+  tripguide, stockprediction,
 };

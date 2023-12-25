@@ -29,7 +29,7 @@ import {
     robocon,
     icse,
     cbse,
-    iit,
+    iit, stockprediction
   } from "/src/assets";
   
   export const navLinks = [
@@ -262,8 +262,8 @@ import {
           color: "green-text-gradient",
         }
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: jobit,
+      source_code_link: "https://github.com/jhasahab369/Course-selling-application/tree/master",
     },
     {
       name: "Stock Prediction",
@@ -279,12 +279,15 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "python",
           color: "pink-text-gradient",
-        },
+        },{
+          name: "LSTM",
+          color: "blue-text-gradient",
+        }
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: stockprediction,
+      source_code_link: "https://github.com/jhasahab369/STOCK_prediction/tree/main",
     },
     
   ];
