@@ -1,4 +1,3 @@
-import SectionWrapper from '/home/jhasaab/Desktop/3d_portfolio/src/hoc/SectionWrapper.jsx';
-
+import SectionWrapper from '/src/hoc/SectionWrapper.jsx'
 
 export { SectionWrapper };
