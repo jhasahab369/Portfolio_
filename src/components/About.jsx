@@ -2,7 +2,7 @@ import React from 'react'
 import { Tilt } from 'react-tilt'
 import {styles } from '../styles'
 import {motion } from 'framer-motion';
-import {services } from '/home/jhasaab/Desktop/3d_portfolio/src/components/constants/index'
+import { services } from './constants';
 import { SectionWrapper } from '../hoc';
 
 import {fadeIn , textVariant } from '../utils/motion';

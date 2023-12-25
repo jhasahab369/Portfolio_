@@ -8,7 +8,7 @@ import CanvasLoader from "../Loader";
 
 const Earth = () => {
 
-  const earth= useGLTF("/home/jhasaab/Desktop/3d_portfolio/public/planet/scene.gltf");
+  const earth= useGLTF("public/planet/scene.gltf");
   
 
   return (
