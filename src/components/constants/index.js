@@ -30,7 +30,7 @@ import {
     icse,
     cbse,
     iit,
-  } from "/home/jhasaab/Desktop/3d_portfolio/src/assets";
+  } from "/src/assets";
   
   export const navLinks = [
     {
